@@ -1,0 +1,12 @@
+Adobe After Effects v14.0 Windows 64 render log for project “1 - TEXTO.aep”
+
+Rendering started on 04/02/2020 at 17:24:55
+
+  04/02/2020 17:24:55: Starting composition “Comp 1”.
+
+  Output To: C:\Users\ADMIN\Desktop\Comp 1\1_[#####].jpg    04/02/2020 17:24:55: Finished composition “Comp 1”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 04/02/2020 at 17:24:55
+

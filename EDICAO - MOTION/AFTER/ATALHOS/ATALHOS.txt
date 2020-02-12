@@ -1,0 +1,12 @@
+comand e = levar o arquivo para editar original (se não atualizar, botão direito reload)
+y        = atalho para ponto de ancora, movendo com o comand diexa no centro
+n        = delita a área na time line
+u        = todas as propriedades que foram animaas
+shif letra = vai adicionando a opção desejada junto com as que já estão visíveis
+gráfico  = na linha do gráfico se clicar na propriedade com o shift é adiciona também a timeline
+pageup   = avança um frame
+pagedown = retorna um frame
+alt ]    = delitar um corte na camada
+[ ou ]   = levar o início ou fim da camada ao ponto da agulha
+texto    = camada de texto pode receber animadores extra
+posição  = Separate Dimensions, separar a posição x da y

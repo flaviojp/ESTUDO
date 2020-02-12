@@ -1,0 +1,15 @@
+https://git-scm.com/download
+ssh-keygen
+
+.gitignore
+
+git config --global user.name "Nome"
+git config --global user.email "email@gmail.com"
+
+git clone colar
+git push - para enviar
+git pull - para pegar depois que já estiver clonado
+
+git status
+git add .
+git commit -m "mensagem"
