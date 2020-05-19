@@ -14,5 +14,6 @@ git status
 git add .
 git commit -m "mensagem"
 
-git tag -a v1.4 -m "my version 1.4"
+git tag -a v1.0 -m "my version 1.0"
+git tag
 git push origin --tags
